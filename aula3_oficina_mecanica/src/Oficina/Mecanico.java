@@ -12,7 +12,7 @@ public class Mecanico {
     }
     public String getNome(){
         return nome;
-    }
+    } //são interfaces para os atributos encapsulados! 
 
 
 }
